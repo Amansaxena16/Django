@@ -1,4 +1,4 @@
-CREATED A REGISTRATION FORM USING DJANGO !!
+Created a Registration and Login Form Using Django!!
 
-AUTHOR - AMAN SAXENA 
-EMAIL - AMAN16NOV.AS@GMAIL.COM
+AUTHOR - Aman Saxena
+EMAIL - aman16nov.as@gmail.com
